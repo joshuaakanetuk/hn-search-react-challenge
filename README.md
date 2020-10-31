@@ -1,2 +1,1 @@
-# hn-search-react-challenge
- hn-search-react-challenge
+HN React Challenge
